@@ -7,7 +7,7 @@ IoT is one of the leading branch nowadays.
 
 In my project I am using Proteus 8 professional version to carry out the same.
 also to configure the arduino I am using Arduino software which you all can download from https://www.arduino.cc/en/software this link.
-In this project I have used PIR Sensor to sense the motion and the logictoggle for making the motion.
+In this project I have used PIR Sensor to sense the motion and the logictoggle(0=no motion/1=motion) for making the motion.
 I have also used LED to show that motion is detected.
 
 when toggle is clicked then the motion will be detected by the PIR Sensor which in turn tells the arduino about the motion and arduino lightens the LED.
